@@ -7,6 +7,7 @@ Obecnie uczę się w 5. klasie technikum informatycznego i aktywnie rozwijam si�
 * **Infrastruktura i narzędzia:** Docker, GitHub Actions (CI/CD), Git
 
 ## 🚀 Wybrane projekty:
+* **Wirtualne CV (MaciejK.github.io):** Moja osobista strona internetowa pełniąca rolę interaktywnego CV i portfolio. Zbudowana przy użyciu HTML, wizualizuje moje umiejętności i dotychczasowe projekty.
 * **LuckyStrike:** Projekt kasyna online stworzony na zajęcia w szkole (PHP).
 * **5_sekund_online:** Interaktywna aplikacja webowa (JavaScript).
 * **HaxBall:** Projekt zrealizowany przy użyciu TypeScript.
