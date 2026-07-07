@@ -7,11 +7,12 @@ Obecnie uczę się w 5. klasie technikum informatycznego i aktywnie rozwijam si�
 * **Infrastruktura i narzędzia:** Docker, GitHub Actions (CI/CD), Git
 
 ## 🚀 Wybrane projekty:
-* **Wirtualne CV (MaciejK.github.io):** Moja osobista strona internetowa pełniąca rolę interaktywnego CV i portfolio. Zbudowana przy użyciu HTML, wizualizuje moje umiejętności i dotychczasowe projekty.
-* **LuckyStrike:** Projekt kasyna online stworzony na zajęcia w szkole (PHP).
-* **5_sekund_online:** Interaktywna aplikacja webowa (JavaScript).
-* **HaxBall:** Projekt zrealizowany przy użyciu TypeScript.
-* **LiczbaOktanowa-ProjektChemia:** Edukacyjna strona internetowa stworzona na potrzeby projektu szkolnego z chemii (HTML/CSS).
+* **[Wirtualne CV](https://github.com/maciekexe/MaciejK.github.io):** Moja osobista strona internetowa pełniąca rolę interaktywnego CV i portfolio. Zbudowana przy użyciu HTML, wizualizuje moje umiejętności i dotychczasowe projekty.
+* **[LuckyStrike](https://github.com/maciekexe/LuckyStrike)** Projekt kasyna online stworzony na zajęcia w szkole (PHP).
+* **[5_sekund_online](https://github.com/maciekexe/5_sekund_online):** Interaktywna aplikacja webowa (JavaScript).
+* **[HaxBall](https://github.com/maciekexe/HaxBall):** Projekt zrealizowany przy użyciu TypeScript.
+* **[LiczbaOktanowa-ProjektChemia](https://github.com/maciekexe/LiczbaOktanowa-ProjektChemia):** Edukacyjna strona internetowa stworzona na potrzeby projektu szkolnego z chemii (HTML/CSS).
+* **[NeonPuls---Landing-Page](https://github.com/maciekexe/NeonPuls---Landing-Page):** Statyczna strona sprzedażowa nastawiona na konwersję i błyskawiczne ładowanie. Projekt napisany w czystym kodzie.
 
 ## 🌱 Co u mnie słychać?
 * Cały czas poszerzam swoje kompetencje programistyczne i szukam pierwszych możliwości zdobycia doświadczenia komercyjnego.
